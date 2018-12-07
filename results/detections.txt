@@ -1,0 +1,205 @@
+Total BFLOPS 65.864 
+
+ seen 64 
+{
+	"/ssd_scratch/cvit/pradeep/lec_frames/1100.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1470", "top_y": " 616", "width": " 145", "height":  411}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1101.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1485", "top_y": " 613", "width": " 148", "height":  416}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1102.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1492", "top_y": " 615", "width": " 139", "height":  410}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1103.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1495", "top_y": " 618", "width": " 140", "height":  405}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1104.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1496", "top_y": " 616", "width": " 143", "height":  408}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1105.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1500", "top_y": " 615", "width": " 140", "height":  413}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1106.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1504", "top_y": " 617", "width": " 136", "height":  411}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1107.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1505", "top_y": " 616", "width": " 149", "height":  412}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1108.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1508", "top_y": " 615", "width": " 161", "height":  414}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1109.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1516", "top_y": " 613", "width": " 158", "height":  417}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1110.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1518", "top_y": " 618", "width": " 165", "height":  412}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1111.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1528", "top_y": " 622", "width": " 161", "height":  407}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1112.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1535", "top_y": " 621", "width": " 156", "height":  403}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1113.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1535", "top_y": " 619", "width": " 158", "height":  407}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1114.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1533", "top_y": " 619", "width": " 165", "height":  404}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1115.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1551", "top_y": " 614", "width": " 163", "height":  419}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1116.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1551", "top_y": " 623", "width": " 177", "height":  403}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1117.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1555", "top_y": " 623", "width": " 179", "height":  403}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1118.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1558", "top_y": " 619", "width": " 183", "height":  406}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1119.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1558", "top_y": " 621", "width": " 191", "height":  402}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1120.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1558", "top_y": " 623", "width": " 194", "height":  399}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1121.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1560", "top_y": " 621", "width": " 194", "height":  404}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1122.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1556", "top_y": " 620", "width": " 197", "height":  403}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1123.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1556", "top_y": " 620", "width": " 199", "height":  405}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1124.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1554", "top_y": " 619", "width": " 200", "height":  406}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1125.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1550", "top_y": " 621", "width": " 205", "height":  401}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1126.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1547", "top_y": " 621", "width": " 206", "height":  401}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1127.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1541", "top_y": " 617", "width": " 210", "height":  407}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1128.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1536", "top_y": " 618", "width": " 208", "height":  406}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1129.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1539", "top_y": " 612", "width": " 192", "height":  420}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1130.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1540", "top_y": " 611", "width": " 186", "height":  423}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1131.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1537", "top_y": " 608", "width": " 187", "height":  431}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1132.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1522", "top_y": " 609", "width": " 194", "height":  428}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1133.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1520", "top_y": " 611", "width": " 194", "height":  423}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1134.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1521", "top_y": " 610", "width": " 192", "height":  425}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1135.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1521", "top_y": " 602", "width": " 186", "height":  439}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1136.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1515", "top_y": " 605", "width": " 189", "height":  432}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1137.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1512", "top_y": " 605", "width": " 186", "height":  432}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1138.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1512", "top_y": " 605", "width": " 181", "height":  430}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1139.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1507", "top_y": " 603", "width": " 180", "height":  437}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1140.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1505", "top_y": " 611", "width": " 178", "height":  420}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1141.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1502", "top_y": " 612", "width": " 175", "height":  418}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1142.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1493", "top_y": " 606", "width": " 180", "height":  430}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1143.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1485", "top_y": " 603", "width": " 182", "height":  433}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1144.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1476", "top_y": " 604", "width": " 180", "height":  427}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1145.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1476", "top_y": " 613", "width": " 176", "height":  412}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1146.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1475", "top_y": " 612", "width": " 170", "height":  414}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1147.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1476", "top_y": " 611", "width": " 165", "height":  416}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1148.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1463", "top_y": " 609", "width": " 162", "height":  418}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1149.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1463", "top_y": " 611", "width": " 159", "height":  414}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1150.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1461", "top_y": " 608", "width": " 161", "height":  419}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1151.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1460", "top_y": " 611", "width": " 160", "height":  415}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1152.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1457", "top_y": " 605", "width": " 162", "height":  426}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1153.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1452", "top_y": " 611", "width": " 162", "height":  421}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1154.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1448", "top_y": " 611", "width": " 161", "height":  420}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1155.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1444", "top_y": " 613", "width": " 161", "height":  418}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1156.png": 
+		{ "class": "person", "prob" : "93%", "cord" : {"left_x": "1443", "top_y": " 610", "width": " 162", "height":  424}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1157.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1441", "top_y": " 612", "width": " 155", "height":  420}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1158.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1437", "top_y": " 608", "width": " 152", "height":  429}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1159.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1431", "top_y": " 612", "width": " 146", "height":  424}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1160.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1430", "top_y": " 612", "width": " 140", "height":  422}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1161.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1426", "top_y": " 613", "width": " 139", "height":  419}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1162.png": 
+		{ "class": "person", "prob" : "96%", "cord" : {"left_x": "1421", "top_y": " 615", "width": " 146", "height":  415}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1163.png": 
+		{ "class": "person", "prob" : "96%", "cord" : {"left_x": "1413", "top_y": " 618", "width": " 152", "height":  411}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1164.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1397", "top_y": " 621", "width": " 142", "height":  412}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1165.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1395", "top_y": " 612", "width": " 143", "height":  427}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1166.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1389", "top_y": " 603", "width": " 146", "height":  443}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1167.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1389", "top_y": " 607", "width": " 141", "height":  437}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1168.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1386", "top_y": " 610", "width": " 138", "height":  431}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1169.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1383", "top_y": " 616", "width": " 138", "height":  420}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1170.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1367", "top_y": " 616", "width": " 153", "height":  417}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1171.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1360", "top_y": " 620", "width": " 156", "height":  409}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1172.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1348", "top_y": " 636", "width": " 164", "height":  399}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1173.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1344", "top_y": " 620", "width": " 154", "height":  410}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1174.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1339", "top_y": " 618", "width": " 151", "height":  411}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1175.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1338", "top_y": " 620", "width": " 145", "height":  409}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1176.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1338", "top_y": " 623", "width": " 143", "height":  402}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1177.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1337", "top_y": " 645", "width": " 144", "height":  383}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1178.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1325", "top_y": " 617", "width": " 142", "height":  419}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1179.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1320", "top_y": " 640", "width": " 151", "height":  392}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1180.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1321", "top_y": " 634", "width": " 145", "height":  403}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1181.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1311", "top_y": " 633", "width": " 146", "height":  407}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1182.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1305", "top_y": " 634", "width": " 140", "height":  407}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1183.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1288", "top_y": " 630", "width": " 141", "height":  414}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1184.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1284", "top_y": " 623", "width": " 132", "height":  426}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1185.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1280", "top_y": " 602", "width": " 131", "height":  442}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1186.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1270", "top_y": " 618", "width": " 138", "height":  435}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1187.png": 
+		{ "class": "person", "prob" : "98%", "cord" : {"left_x": "1251", "top_y": " 613", "width": " 143", "height":  447}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1188.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1251", "top_y": " 613", "width": " 136", "height":  462}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1189.png": 
+		{ "class": "person", "prob" : "100%", "cord" : {"left_x": "1243", "top_y": " 619", "width": " 137", "height":  459}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1190.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1237", "top_y": " 621", "width": " 138", "height":  465}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1191.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1231", "top_y": " 619", "width": " 136", "height":  461}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1192.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1223", "top_y": " 618", "width": " 142", "height":  463}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1193.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1219", "top_y": " 626", "width": " 139", "height":  435}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1194.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1216", "top_y": " 619", "width": " 137", "height":  448}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1195.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1215", "top_y": " 616", "width": " 133", "height":  458}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1196.png": 
+		{ "class": "person", "prob" : "99%", "cord" : {"left_x": "1208", "top_y": " 614", "width": " 133", "height":  464}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1197.png": 
+		{ "class": "person", "prob" : "97%", "cord" : {"left_x": "1201", "top_y": " 605", "width": " 137", "height":  480}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1198.png": 
+		{ "class": "person", "prob" : "94%", "cord" : {"left_x": "1178", "top_y": " 607", "width": " 140", "height":  478}}
+,	"/ssd_scratch/cvit/pradeep/lec_frames/1199.png": 
+		{ "class": "person", "prob" : "96%", "cord" : {"left_x": "1175", "top_y": " 602", "width": " 142", "height":  486}}
+}
